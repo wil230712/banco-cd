@@ -1,3 +1,4 @@
+#qualquer coisa 
 #!/usr/bin/ruby
 
 require "vrlib"
